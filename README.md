@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/vedant singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedant singh" height="30" width="40" /></a>
 <a href="https://instagram.com/im._.vsr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="im._.vsr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imvsr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imvsr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imvdntsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="imvdntsingh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/codeVed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="imvdntsingh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@imvdntsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@imvdntsingh" height="30" width="40" /></a>
 </p>
 <br>
