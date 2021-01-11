@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning... everything 🤣
 - 👯 I’m looking to work with different organizations.
-- 🥅 2021 Goals: <b>Learn create and contribute</b> as much as POSSIBLE.
+- 🥅 2021 Goals: <b>Learn , create and contribute</b> as much as POSSIBLE.
 - ⚡ Fun fact : I love to draw and click photos (and believe me , I'm very good at these 😉).
 <br>
 <br>
