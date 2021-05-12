@@ -31,8 +31,10 @@
 
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvsr-0609&show_icons=true&theme=algolia)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imvsr-0606&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imvsr-0606&repo=meals-on-wheels)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imvsr-0606&repo=google-search-clone)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imvsr-0606&repo=whats-the-weather)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imvsr-0609&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
