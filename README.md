@@ -29,11 +29,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/imvsr-0609)
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvsr-0609&show_icons=true&theme=algolia)
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvsr-0609&show_icons=true&theme=gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvsr-0609&layout=compact)
 
-![vedant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imvsr-0609)
 
 
 
