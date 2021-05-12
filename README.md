@@ -33,6 +33,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvsr-0609&layout=compact)
 
+![vedant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imvsr-0609)
+
+
 
 
 
