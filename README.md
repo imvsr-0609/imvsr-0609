@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Vedant Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi, I am Vedant Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
  <h1> I'm a Programmer, Developer, and Artist!!</h1>
  <br>
@@ -30,11 +30,7 @@
 ![](https://gpvc.arturio.dev/imvsr-0609)
 
 ![](https://github-readme-stats.vercel.app/api?username=imvsr-0609&show_icons=true&theme=algolia)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imvsr-0609) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imvsr-0609) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imvsr-0609) 
+ 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imvsr-0609&layout=compact)
 
