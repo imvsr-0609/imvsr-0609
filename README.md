@@ -29,7 +29,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/imvsr-0609)
 
-<a href="https://github.com/imvsr-0609/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=imvsr-0609&show_icons=true&theme=algolia" /></a>
+[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvsr-0609)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/imvsr-0609/github-readme-stats">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvsr-0609&langs_count=8"   /></a>
+
