@@ -30,11 +30,13 @@
 
 ![](https://gpvc.arturio.dev/imvsr-0609)
 
-![](https://github-readme-stats.vercel.app/api?username=imvsr-0609&show_icons=true&theme=algolia)
- 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imvsr-0609&layout=compact)
 
+
+
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imvsr-0609&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&line_height=30)](https://vedantsinghportfolio.netlify.app/) | [![Most Ssed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imvsr-0609&langs_count=12&layout=compact&theme=algolia&card_width=445)](https://vedantsinghportfolio.netlify.app/) |
+| --- | --- |
+| [![Commit Streak](https://github-readme-streak-stats.herokuapp.com?user=imvsr-0609&theme=algolia)](https://vedantsinghportfolio.netlify.app/) | 
 
 
 
